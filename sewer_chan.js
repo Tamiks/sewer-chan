@@ -6,7 +6,7 @@
 const DISCORD = require("discord.io");
 const math = require("mathjs");
 let sewer = new DISCORD.Client({
-    token: "MjA0NzA1MzAzMjAyMTAzMjk2.XmrHlQ.iD2oBVtk-wVJ6rdy_7X_MaazZUk",
+    token: "",
     autorun: true,
 });
 let tamiks = "https://www.twitter.com/tamiks_properer";
